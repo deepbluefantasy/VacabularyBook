@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">单词本</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_all">显示全部单词</string>
+    <string name="action_search">查找</string>
+    <string name="action_insert">新增</string>
+    <string name="action_delete">删除</string>
+    <string name="action_update">修改</string>
+    <string name="action_translate">有道翻译</string>
+    <string name="action_news">globaltimes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_translate">TranslateActivity</string>
+    <string name="title_activity_english_web">EnglishWeb</string>
+</resources>

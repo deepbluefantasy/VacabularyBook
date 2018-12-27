@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00000000">
+
+    <TableRow
+        android:background="#00000000">
+
+        <TextView android:hint="搜索的单词:"
+            android:textSize="20dp" />
+
+        <EditText
+            android:id="@+id/txtSearchWord"
+            android:layout_width="match_parent"
+            android:textSize="20dp"
+            android:background="@null"/>
+    </TableRow>
+
+</TableLayout>
