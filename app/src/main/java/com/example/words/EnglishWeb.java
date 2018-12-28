@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.webkit.WebChromeClient;
 import android.webkit.WebView;
-//查看中国日报（英语）
+//跳转到中国日报网
 public class EnglishWeb extends AppCompatActivity {
 
     @Override
