@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.webkit.WebChromeClient;
 import android.webkit.WebView;
-
+//查看中国日报（英语）
 public class EnglishWeb extends AppCompatActivity {
 
     @Override
@@ -24,7 +24,7 @@ public class EnglishWeb extends AppCompatActivity {
         webView.getSettings().setBuiltInZoomControls(true);
 
         webView.setWebChromeClient(new WebChromeClient());
-        webView.loadUrl("http://www.bbc.com/");
+        webView.loadUrl("http://www.chinadaily.com.cn/");
 
 
     }
